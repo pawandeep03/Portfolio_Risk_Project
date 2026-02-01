@@ -85,5 +85,5 @@ This project highlights how data analytics can be used to analyze financial mark
 ---
 
 
-This project is created for learning, portfolio development, and internship-level analytics demonstration purposes.
+
 
