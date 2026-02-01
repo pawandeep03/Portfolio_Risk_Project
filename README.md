@@ -16,7 +16,7 @@ The main purpose of this project is to:
 * Compare asset performance and risk
 * Identify stable vs risky investments
 * Understand diversification benefits
-* Demonstrate practical use of **SQL and Power BI** for financial analytics
+  
 
 ---
 
@@ -40,8 +40,8 @@ The dataset contains **daily historical price data** for the following assets:
 
 ## 🛠️ Tools & Technologies Used
 
-* **SQL** – Data analysis, returns & risk calculations
-* **Power BI** – Interactive dashboard & visualization
+* **Python** - pandas library
+
 * **Excel / CSV** – Initial data inspection and formatting
 
 ---
